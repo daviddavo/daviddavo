@@ -16,5 +16,3 @@ Academia (publications):
 > Note that these stats don't take into account my contributions to other organizations repositories
 
 [![David Davó's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddavo&theme=dracula&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddavo&theme=dracula&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ddavo's GitHub | Languages Over Time](https://stats.quine.sh/ddavo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ddavo)
